@@ -16,19 +16,19 @@ Sistemin belirsizlik yönetimi yeteneğini kanıtlayan 3 temel deney gerçekleş
 * **Profil:** 25 yaşında Kadın, sağlıklı yaşam tarzı.
 * **Sonuç:** **Risk Yok (0)** ✅
 * [cite_start]**Açıklama:** Genç yaş grubu ve sağlıklı yaşam tarzı birleştiğinde sistem kesin negatif sonuç üretir[cite: 708].
-![Senaryo 1](images/deney1.png)
+![Senaryo 1](images/deney1 (1).png)
 
 ### 2. Yaşa Bağlı Belirsizlik (Geciktirilebilir Risk)
 * **Profil:** 55 yaşında Erkek, sağlıklı yaşam tarzı.
 * **Sonuç:** **Risk Olabilir (0.5)** ⚠️
 * **Açıklama:** Makaleye göre yaşlanma biyolojik bir belirsizlik oluşturur; [cite_start]45+ yaş eşiği aşıldığı için sistem bireyi uyarır[cite: 675, 678, 708].
-![Senaryo 2](images/deney2.png)
+![Senaryo 2](images/deney2 (2).png)
 
 ### 3. Yüksek Risk (Kesin Pozitif)
 * **Profil:** 60 yaşında Kadın, olumsuz yaşam tarzı faktörleri.
 * **Sonuç:** **Risk Var (1)** 🚨
 * [cite_start]**Açıklama:** Davranışsal risk faktörlerinin kolektif etkisi ve ileri yaşın birleşimiyle en yüksek risk seviyesi doğrulanır[cite: 708, 1349].
-![Senaryo 3](images/deney3.png)
+![Senaryo 3](images/deney3 (3).png)
 
 ## 📊 Performans Karşılaştırması
 | Metrik | Orijinal Veri Seti | Bulanık Hibrit Model |
