@@ -2,8 +2,6 @@
 * **Muhammed Sami Turhan** 
 
 # 🫀 Kalp Hastalığı Risk Analizi (Fuzzy Three-Valued Logic)
-Eren Güvercin 2212729010
-Muhammed Sami Turhan 
 
 Bu proje, **Computers in Biology and Medicine (2025)** dergisinde yayımlanan *"A novel fuzzy three-valued logic computational framework in machine learning for medicine dataset"* makalesindeki hibrit hesaplama modelini temel alan bir karar destek sistemidir. Geleneksel yöntemlerin aksine, bu model tıbbi verilerdeki belirsizlikleri (gri alanları) yönetebilmek için $0$ (Yok), $0.5$ (Olabilir) ve $1$ (Var) değerlerini kullanan **Bulanık Üç Değerli Mantık** mimarisini kullanır.
 
